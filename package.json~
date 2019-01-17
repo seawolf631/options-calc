@@ -2,7 +2,6 @@
   "name": "options-calc",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://seawolf631.github.io/options-calc/",
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
@@ -12,9 +11,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy":"options-calc -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
